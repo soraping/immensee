@@ -1,0 +1,24 @@
+{
+  "name": "immensee",
+  "version": "0.0.1",
+  "description": "immensee 茵梦湖",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soraping/immensee.git"
+  },
+  "author": "caoshiping",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soraping/immensee/issues"
+  },
+  "homepage": "https://github.com/soraping/immensee#readme",
+  "author": {
+    "name": "caoshiping",
+    "email": "soraping@163.com",
+    "url": "https://github.com/soraping"
+  }
+}
